@@ -1,0 +1,4 @@
+node_modules 
+.env
+junk.js
+firebase.json
