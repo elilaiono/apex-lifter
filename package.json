@@ -1,5 +1,5 @@
 {
-  "name": "capstone-frontend",
+  "name": "apex-lifter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,7 +34,7 @@
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
-    
+
   },
   "scripts": {
     "start": "react-scripts start",
@@ -47,6 +47,10 @@
       "react-app",
       "react-app/jest"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elilaiono/apex-lifter.git"
   },
   "browserslist": {
     "production": [

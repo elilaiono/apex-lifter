@@ -22,13 +22,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elilaiono/eli-capstone-wdd499.git"
+    "url": "git+https://github.com/elilaiono/apex-lifter.git"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/elilaiono/eli-capstone-wdd499/issues"
-  },
-  "homepage": "https://github.com/elilaiono/eli-capstone-wdd499#readme",
-  "description": ""
+  "license": "ISC"
+  
 }
